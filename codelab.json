@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-03-15T15:30:22Z",
+  "id": "jordhi.github.io",
+  "duration": 0,
+  "title": "English grammar",
+  "authors": "Jordi Hdez",
+  "summary": "English grammar level 5",
+  "source": "1T4zTt-C4vxawhCSAHE0WqRICx3Zg-lhdPTqJE51ZRtA",
+  "theme": "web",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "Web"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://github.com/jordhi/jordhi.github.io/issues",
+  "url": "jordhi.github.io"
+}
